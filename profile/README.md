@@ -1,7 +1,7 @@
 # Common-Codes
 ### For the most Common of Codes
 
-Just a bunch of wannabe developers making code held  together with else if loops.
+Just a bunch of ~~wannabe~~ developers making code held  together with else if loops.
 
 ### Socials
 
