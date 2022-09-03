@@ -7,5 +7,7 @@ Just a bunch of ~~wannabe~~ developers making code held  together with else if l
 
 - [**Revolt**](https://app.revolt.chat/invite/MXp9zC2M)
 - [Crispy](https://crispychat.tech/app/invite/#code=commoncodes)
+- [Twitter](https://twitter.com/CommonCodes)
 - [Discord](https://discord.gg/vncq8kF5hj)
+
 
